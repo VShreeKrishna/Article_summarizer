@@ -1,5 +1,3 @@
-Sure, here is a generated `README.md` file for the `article_summarizer` repository:
-
 ```markdown
 # Article Summarizer
 
