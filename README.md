@@ -1,4 +1,4 @@
-```markdown
+
 # Article Summarizer
 
 This project is a web application called Sumz, which simplifies lengthy articles into clear and concise summaries. It is built using React and Vite, with state management handled by Redux Toolkit.
